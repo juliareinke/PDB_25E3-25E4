@@ -1,0 +1,23 @@
+[
+  {
+    "id_artista": 1,
+    "nome": "Alice (Atualizada)",
+    "instrumento_principal": "Voz",
+    "genero_musical": "Pop",
+    "data_entrada": "2025-10-15"
+  },
+  {
+    "id_artista": 2,
+    "nome": "Bruno (Atualizado)",
+    "instrumento_principal": "Guitarra",
+    "genero_musical": "Rock",
+    "data_entrada": "2025-10-02"
+  },
+  {
+    "id_artista": 4,
+    "nome": "Davi",
+    "instrumento_principal": "Baixo",
+    "genero_musical": "Rock",
+    "data_entrada": "2025-11-01"
+  }
+]

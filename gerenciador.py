@@ -1,3 +1,5 @@
+# TESTE DE PERFORMANCE 1
+
 """
 MAESTRO
 Gerenciador de Estúdio Musical

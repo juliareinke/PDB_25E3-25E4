@@ -5,13 +5,15 @@ import pandas as pd
 from datetime import datetime
 import mysql.connector
 
+# TESTE DE PERFORMANCE 2
+
 load_dotenv() 
 
 user = os.getenv("MYSQL_USER")
 password = os.getenv("MYSQL_PASSWORD")
 host = os.getenv("MYSQL_HOST")
 database = os.getenv("MYSQL_DATABASE")
-port = "3306" # Porta padrão do mySQL
+port = "3306" 
 
 df = pd.read_excel("tabela_funcionarios_MAESTRO.xlsx", sheet_name="FUNCIONARIOS")
 print(df)
